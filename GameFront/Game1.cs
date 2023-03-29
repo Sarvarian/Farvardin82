@@ -6,12 +6,12 @@ namespace GameFront
 {
     public class Game1 : Game
     {
-        private GraphicsDeviceManager _graphics;
-        private SpriteBatch _spriteBatch;
+        private GraphicsDeviceManager graphics_;
+        private SpriteBatch spriteBatch_;
 
         public Game1()
         {
-            _graphics = new GraphicsDeviceManager(this);
+            graphics_ = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
         }
@@ -25,7 +25,7 @@ namespace GameFront
 
         protected override void LoadContent()
         {
-            _spriteBatch = new SpriteBatch(GraphicsDevice);
+            spriteBatch_ = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
         }
