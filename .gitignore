@@ -399,3 +399,10 @@ FodyWeavers.xsd
 
 # Add these myself.
 .idea/
+.vs/
+.vscode/
+
+
+# Added by cargo
+
+/target
