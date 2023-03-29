@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Game_Core")]
+[assembly: AssemblyTitle("PerfectPlay")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Game_Core")]
+[assembly: AssemblyProduct("PerfectPlay")]
 [assembly: AssemblyCopyright("Copyright ©  1402")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("C642BCCA-4AFC-4998-9FC5-88B9194A86F7")]
+[assembly: Guid("C8CD3DBD-EDEB-4059-B90F-85301CFE9E7B")]
 
 // Version information for an assembly consists of the following four values:
 //

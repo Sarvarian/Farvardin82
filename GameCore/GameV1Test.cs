@@ -1,8 +1,8 @@
 ﻿using Xunit;
 
-namespace Perfect_Play
+namespace GameCore
 {
-	public class Tests
+	public class GameV1Test
 	{
 		[Fact]
 		public void Test1()

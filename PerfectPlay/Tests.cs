@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace Game_Core
+namespace PerfectPlay
 {
 	public class Tests
 	{

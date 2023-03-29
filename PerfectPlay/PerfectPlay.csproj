@@ -5,12 +5,12 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{C642BCCA-4AFC-4998-9FC5-88B9194A86F7}</ProjectGuid>
+        <ProjectGuid>{C8CD3DBD-EDEB-4059-B90F-85301CFE9E7B}</ProjectGuid>
         <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Game_Core</RootNamespace>
-        <AssemblyName>Game_Core</AssemblyName>
+        <RootNamespace>PerfectPlay</RootNamespace>
+        <AssemblyName>PerfectPlay</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
