@@ -1,2 +1,4 @@
-﻿using var game = new Game_Front.Game1();
+﻿using Game_Front;
+
+using var game = new Game1();
 game.Run();
