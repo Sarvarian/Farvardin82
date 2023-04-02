@@ -7,10 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameFront", "GameFront\Game
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameCore", "GameCore\GameCore.csproj", "{0BA6E798-920F-49F5-AA91-E592573A4BEE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerReplica", "PlayerReplica\PlayerReplica.csproj", "{D2DB88F4-4C38-4321-A94C-A6FAA384EB3F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectPlay", "PerfectPlay\PerfectPlay.csproj", "{A365E301-BA7F-4A41-87D3-967CE55AFCAA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,14 +21,6 @@ Global
 		{0BA6E798-920F-49F5-AA91-E592573A4BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BA6E798-920F-49F5-AA91-E592573A4BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BA6E798-920F-49F5-AA91-E592573A4BEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D2DB88F4-4C38-4321-A94C-A6FAA384EB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2DB88F4-4C38-4321-A94C-A6FAA384EB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2DB88F4-4C38-4321-A94C-A6FAA384EB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2DB88F4-4C38-4321-A94C-A6FAA384EB3F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A365E301-BA7F-4A41-87D3-967CE55AFCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A365E301-BA7F-4A41-87D3-967CE55AFCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A365E301-BA7F-4A41-87D3-967CE55AFCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A365E301-BA7F-4A41-87D3-967CE55AFCAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
